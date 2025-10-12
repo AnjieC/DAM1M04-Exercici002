@@ -12,6 +12,10 @@ body{
     background-color: rgb(177, 105, 211);
 }
 
+#contenidodepagina{
+    margin-top: 60px;
+}
+
 footer{
     top: 0;
     left: 0;
