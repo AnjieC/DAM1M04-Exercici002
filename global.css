@@ -42,13 +42,14 @@ button:hover{
 }
 
 .contenidorcartas{
-    padding: 25px 7px;
+    margin-top: 25px;
+    padding: 7px;
     display: flex;
 }
 
 .carta{
     background-color: rgb(249, 231, 255);
-    margin: 7px;
+    margin: 11px;
     padding: 0 10px 12px;
 }
 
@@ -59,10 +60,12 @@ span{
 }
 
 #bandabeneficios{
+    margin-top: 40px;
     display: flex;
     background-color: rgb(139, 76, 241);
     color: white;
     font-weight: bold;
+    justify-content: center;
 }
 
 .beneficio{
