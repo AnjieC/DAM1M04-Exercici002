@@ -73,6 +73,13 @@ span{
     padding: 10px;
 }
 
+#filtro{
+    background-color: rgb(157, 82, 228);
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+}
+
 .listaproductos{
     margin-top: 25px;
     padding: 7px;
@@ -85,6 +92,13 @@ span{
     flex: 1 1 260px;
     background-color: rgb(249, 231, 255);
     padding: 0 10px 12px;
+}
+
+.columna{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30%;
 }
 
 footer{
